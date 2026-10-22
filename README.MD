@@ -43,4 +43,4 @@ POST /mascotas
 Recibe los datos enviados desde el formulario.
 
 ## Estructura de vistas
-La aplicación utiliza EJS para generar las páginas HTML.
+La aplicación utiliza EJS para generar las páginas HTML
